@@ -1,0 +1,136 @@
+<section id="Price">
+        <div class="container">
+            <h1>انواع اشتراكاتنا</h1>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="single-price">
+                        <div class="price-head">
+                            <h2>Light</h2>
+                            <p>$12/<span>Month</span></p>
+                        </div>
+                        <div class="price-contect">
+                            <ul>
+                                <li><i class="fab fa-youtube"></i> YouTube: 3.3 Mbps</li>
+                                <li><i class="fab fa-facebook"></i> Facebook: 2.8 Mbps</li>
+                                <li><i class="fas fa-arrow-alt-circle-down"></i> Download: 315 Kbps</li>
+                                <li><i class="fas fa-arrow-circle-up"></i> Upload: 5 Mbps</li>
+                                <li><i class="fas fa-exclamation-triangle"></i> Share Ratio: 1:1</li>
+                            </ul>
+                        </div>
+                        <div class="price-button">
+                            <a class="buy-btn" href="#">اشتري الآن</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="single-price">
+                        <div class="price-head">
+                            <h2>Economy</h2>
+                            <p>$16/<span>Month</span></p>
+                        </div>
+                        <div class="price-contect">
+                            <ul>
+                                <li><i class="fab fa-youtube"></i> YouTube: 3.3 Mbps</li>
+                                <li><i class="fab fa-facebook"></i> Facebook: 2.8 Mbps</li>
+                                <li><i class="fas fa-arrow-alt-circle-down"></i> Download: 315 Kbps</li>
+                                <li><i class="fas fa-arrow-circle-up"></i> Upload: 5 Mbps</li>
+                                <li><i class="fas fa-exclamation-triangle"></i> Share Ratio: 1:1</li>
+                            </ul>
+                        </div>
+                        <div class="price-button">
+                            <a class="buy-btn" href="#">اشتري الآن</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="single-price">
+                        <div class="price-head">
+                            <h2>Popular</h2>
+                            <p>$25/<span>Month</span></p>
+                        </div>
+                        <div class="price-contect">
+                            <ul>
+                                <li><i class="fab fa-youtube"></i> YouTube: 3.3 Mbps</li>
+                                <li><i class="fab fa-facebook"></i> Facebook: 2.8 Mbps</li>
+                                <li><i class="fas fa-arrow-alt-circle-down"></i> Download: 315 Kbps</li>
+                                <li><i class="fas fa-arrow-circle-up"></i> Upload: 5 Mbps</li>
+                                <li><i class="fas fa-exclamation-triangle"></i> Share Ratio: 1:1</li>
+                            </ul>
+                        </div>
+                        <div class="price-button">
+                            <a class="buy-btn" href="#">اشتري الان</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="single-price">
+                        <div class="price-head">
+                            <h2>Active</h2>
+                            <p>$30/<span>Month</span></p>
+                        </div>
+                        <div class="price-contect">
+                            <ul>
+                                <li><i class="fab fa-youtube"></i> YouTube: 3.3 Mbps</li>
+                                <li><i class="fab fa-facebook"></i> Facebook: 2.8 Mbps</li>
+                                <li><i class="fas fa-arrow-alt-circle-down"></i> Download: 315 Kbps</li>
+                                <li><i class="fas fa-arrow-circle-up"></i> Upload: 5 Mbps</li>
+                                <li><i class="fas fa-exclamation-triangle"></i> Share Ratio: 1:1</li>
+                            </ul>
+                        </div>
+                        <div class="price-button">
+                            <a class="buy-btn" href="#">اشتري الآن</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="single-price">
+                        <div class="price-head">
+                            <h2>Super</h2>
+                            <p>$40/<span>Month</span></p>
+                        </div>
+                        <div class="price-contect">
+                            <ul>
+                                <li><i class="fab fa-youtube"></i> YouTube: 3.3 Mbps</li>
+                                <li><i class="fab fa-facebook"></i> Facebook: 2.8 Mbps</li>
+                                <li><i class="fas fa-arrow-alt-circle-down"></i> Download: 315 Kbps</li>
+                                <li><i class="fas fa-arrow-circle-up"></i> Upload: 5 Mbps</li>
+                                <li><i class="fas fa-exclamation-triangle"></i> Share Ratio: 1:1</li>
+                            </ul>
+                        </div>
+                        <div class="price-button">
+                            <a class="buy-btn" href="#">اشتري الآن</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="single-price">
+                        <div class="price-head">
+                            <h2>VIP</h2>
+                            <p>$60/<span>Month</span></p>
+                        </div>
+                        <div class="price-contect">
+                            <!--
+                            <ul>
+                                <li><i class="far fa-check-circle"></i> 5GB Space</li>
+                                <li><i class="far fa-check-circle"></i> 10GB Space</li>
+                                <li><i class="far fa-times-circle"></i> 15GB Space</li>
+                                <li><i class="far fa-times-circle"></i> Unlimited Domain</li>
+                                <li><i class="far fa-times-circle"></i> Unlimited Support</li>
+                            </ul>
+                        -->
+                            <ul>
+                                <li><i class="fab fa-youtube"></i> YouTube: 3.3 Mbps</li>
+                                <li><i class="fab fa-facebook"></i> Facebook: 2.8 Mbps</li>
+                                <li><i class="fas fa-arrow-alt-circle-down"></i> Download: 315 Kbps</li>
+                                <li><i class="fas fa-arrow-circle-up"></i> Upload: 5 Mbps</li>
+                                <li><i class="fas fa-exclamation-triangle"></i> Share Ratio: 1:1</li>
+                            </ul>
+                        </div>
+                        <div class="price-button">
+                            <a class="buy-btn" href="#">اشتري الآن</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

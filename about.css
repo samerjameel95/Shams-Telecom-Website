@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tajawal&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    font-family: 'Cairo', sans-serif;
+}
+
+.navbar-brand img {
+    height: 40px;
+    padding-left: 30px;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    float: right;
+    text-align: left;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#nav-bar ul li a:hover {
+    color: #f0932b!important;
+}
+
+navbar {
+    background: #fff;
+}
+
+.navbar-taggler {
+    border: none!important;
+}
+
+.nav-link,
+.dropdown-item {
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+/* new */
+
+.featurette-heading {
+    font-family: 'Cairo', sans-serif;
+    margin-left: 30px;
+    font-weight: 600;
+}
+
+.lead {
+    margin-left: 20px;
+    font-family: 'Cairo', sans-serif;
+    padding-bottom: 20px;
+}
+
+
+/* ------ ------*/
+
+.featurette-divider {
+    margin: 5rem 0;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid red;
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
